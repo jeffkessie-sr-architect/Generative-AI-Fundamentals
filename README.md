@@ -1,1 +1,1 @@
-# Generative-AI-Fundamentals
+# Databricks Generative-AI-Fundamentals
